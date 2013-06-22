@@ -1,5 +1,14 @@
 Description
 -----------
+This is a fork of the original [Magento CE Solr extension](http://code.google.com/p/magento-community-edition-solr/) 
+
+The changes include:
+
+* Hot fix to make the module work with Solr  4.3 (the original only works with solr 3.x)
+* Added configuration files for brazilian portuguse undes the app/etc folder 
+
+
+The original description:
 
 Make search on Magento CE with Apache Solr.
 
